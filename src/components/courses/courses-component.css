@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+ul li {
+    width: 30.33%;
+    margin-right: 5px;
+}
+
+.header {
+    background-color: #430252;
+    color: #ffffff;
+    padding: 5px
+}
